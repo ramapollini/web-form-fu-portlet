@@ -12,3 +12,4 @@ The file is attached to the email also.
 You can configure the portlet to send a "thank you" email to the form's author (only if he's a registered user).
 
 
+ciao
